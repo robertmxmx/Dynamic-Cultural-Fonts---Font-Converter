@@ -5,14 +5,15 @@ arr_fonts = [
     "3. Indian cultures",
     "4. Runic font used for Norse/Turkic/Mogyer/Finno-Uralic cultures",
     "5. Old Church Slavonic style font used for East and South Slavic",
-    "6. Insular style font used for Gaelic cultures",
+    "6. Insular style font used for Gaelic cultures (in the 867 version of the mod it is used for all cultures on the british isles)",
     "7. Greek/Byzantine font.",
     "8. Chinese font",
     "9. Jewish Hebrew inspired font",
     "10. Mongolian font",
     "11. Tibetan inspired font",
     "12. Coptic font for Ethiopian/Armenian cultures",
-    "13. Georgian font for Georgian cultures ... to be implemented"
+    "13. Georgian font for Georgian cultures ... to be implemented",
+    "14. Visgothic font for the Visigoth culture (only used in the 867 version of the mod, in the 1066 version of the mod it appears as style 1"
 ]
 s_pause = "Press Enter to Continue!"
 s_modName = "Dynamic Cultural Fonts [1066 Style]"
@@ -40,6 +41,7 @@ s_instr_1 = f"""First, select the font you want to use! (For instance, for Runic
 {arr_fonts[11]}
 {arr_fonts[12]}
 {arr_fonts[13]}
+{arr_fonts[14]}
 """
 
 s_instr_2 = "Now type the name of the title!"
